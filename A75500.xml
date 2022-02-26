@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for bishops or, a plea for learning, against those lying, rayling, and scandalous libels, so frequent, in despight of learning and learned men. Dedicated to all the lover [sic] of learning and vertue for the reformation of the abuses and corruptions of these times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75500</idno>
+            <idno type="STC">Wing A3543</idno>
+            <idno type="STC">Thomason E173_4</idno>
+            <idno type="STC">Thomason E167_12</idno>
+            <idno type="STC">ESTC R212686</idno>
+            <idno type="EEBO-CITATION">99871275</idno>
+            <idno type="PROQUEST">99871275</idno>
+            <idno type="VID">157061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157061)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[4]; 29:E167[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for bishops or, a plea for learning, against those lying, rayling, and scandalous libels, so frequent, in despight of learning and learned men. Dedicated to all the lover [sic] of learning and vertue for the reformation of the abuses and corruptions of these times.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157061:1" rendition="simple:additions"/>
+            <p>AN APOLOGY FOR BISHOPS OR, A PLEA FOR LEARNING, AGAINST THOSE LYING, RAYLNG, AND SCANDALOUS LIBELS, SO frequent, in deſpight of Learning and Learned Men.</p>
+            <p>DEDICATED TO ALL THE LOVER of Learning and Vertue for the Reformation of the abuſes and corruptions of theſe <hi>Times.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="apology">
+            <pb facs="tcp:157061:2"/>
+            <pb n="1" facs="tcp:157061:2"/>
+            <head>Introduction.</head>
+            <lg>
+               <l>
+                  <hi>To vindicate the truth, now baſely ſhent;</hi>
+               </l>
+               <l>
+                  <hi>(But yet not ſham'd) one mufe is forward bent;</hi>
+               </l>
+               <l>
+                  <hi>Then give ſuch power and guidance to my Quill,</hi>
+               </l>
+               <l>
+                  <hi>(Thou truths defender) that thy glory ſtill,</hi>
+               </l>
+               <l>
+                  <hi>May be the end and ſcope of all my paines,</hi>
+               </l>
+               <l>
+                  <hi>Which more delights my ſoule then worldly gaines.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>INjurious times I can theſe latter dayes,</l>
+               <l>That ſhould devoutly more and more upraiſe</l>
+               <l>Th'almighties honor, whoſe children ſhould grow</l>
+               <l>As th'ponderous world grows more and more in age?</l>
+               <l>Can it and we ſo much degenerate?</l>
+               <l>(Oh griefe) we doe; the world is in no fault,</l>
+               <l>But horridly ſhe ſhakes, and ſtands agaſt,</l>
+               <l>To ſee fond Mortals deſperately and faſt.</l>
+               <l>Gigantikely gainſt goodneſſe wage a warre,</l>
+               <l>And ſet up Ignorance in Learnings charie.</l>
+               <l>Biſhops whoſe long and undiſputed right,</l>
+               <l>For hundred yeers ſtruck error in a fright,</l>
+               <l>In whoſe ſucceſsions ſtill there has been found</l>
+               <l>Continuall props to bear up Englands Crown.</l>
+               <pb n="2" facs="tcp:157061:3"/>
+               <l>Search Monumentall Records and you'l ſee</l>
+               <l>In ancient times muzled with Popery,</l>
+               <l>Still ſome of them like <hi>Atlas,</hi> gainſt ſterne fate</l>
+               <l>In boyſtering times uphold our tottering State,</l>
+               <l>And truly if I might compare, and ſhow</l>
+               <l>The bleſſings which from their induſtry grow</l>
+               <l>God making them his cheifeſt inſtruments</l>
+               <l>To bring to paſſe which now's our cheifſt contents</l>
+               <l>Witneſſe graue <hi>Morton</hi> whoſe indicions head</l>
+               <l>Found meanes to ioyne the white roſe with the red</l>
+               <l>And that good <hi>Durham</hi> Biſhop whoſe wit did find,</l>
+               <l>The meanes by which England and Scotland's joynd.</l>
+               <l>But ſome will ſay, what trayterous Subjects were,</l>
+               <l>Theſe Biſhops, <hi>Becket, Bonner, Gardiner,</hi>
+               </l>
+               <l>With many more, I grant it verily</l>
+               <l>Many were bad (but yet) I thus reply,</l>
+               <l>No order ſince the world did firſt begin,</l>
+               <l>Were't ne're ſo ſtrict, but ſome were full of ſin;</l>
+               <l>I can recite ſuch as no man can blame,</l>
+               <l>Induc'd with Learning and Religious Flame:</l>
+               <l>Eſpecially ſince time of reformation,</l>
+               <l>And Pope in <hi>England</hi> had ſo ſore damnation,</l>
+               <l>Who like Gods faithfull ſervants full of grace,</l>
+               <l>Made fire their Graves to ſee their Makers face,</l>
+               <l>As <hi>Crammer, Ridley,</hi> reverend <hi>Latimer,</hi>
+               </l>
+               <l>Good Biſhop <hi>Hooker,</hi> zealous Biſhop <hi>Farrar,</hi>
+               </l>
+               <l>To lead the Armies of the living God,</l>
+               <l>(Like good <hi>Ichoiada's</hi>) they Antichriſt withſtood:</l>
+               <l>And after that the <hi>Marion</hi> troubles ended,</l>
+               <l>
+                  <hi>Elizabeth,</hi> whom God ſo long defended,</l>
+               <l>(Seated in tho Engliſh Throne) ſhe quickly caſt</l>
+               <l>Bloud ſucking Tyrants into priſon faſt,</l>
+               <pb n="3" facs="tcp:157061:3"/>
+               <l>And in their places plac'd ſuch ſhining Starres,</l>
+               <l>Who govern'd decently the Church, held warres</l>
+               <l>With Antichriſt, and knockt his triple Crowne</l>
+               <l>To Hell, from whence their Helliſh doctrin's flowne,</l>
+               <l>Since whom, what good men could I name, but I</l>
+               <l>Hate guiltineſſe of partiality,</l>
+               <l>And know full well my praiſe can little skill,</l>
+               <l>Since their owne workes have merited ſo well.</l>
+               <l>The Function's ſo devout, of ſuch eſteeme</l>
+               <l>It ought to be, though ſome ſiniſter deeme,</l>
+               <l>Whoſe boyling hearts blowne up with ſatans ſpirit,</l>
+               <l>Strike at the Churches Baſis, would diſinherit</l>
+               <l>The Lords owne Tribe, and let all Ignorance,</l>
+               <l>Schiſme and Diſcord, or other dire miſchance,</l>
+               <l>Come tumbling in, but that high Senates skil</l>
+               <l>And holy Zeale, that which is fitting, will</l>
+               <l>Eſtabliſh and enact, let ſlanderous pennes,</l>
+               <l>Scrible their hum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d rum ſtuffe, fans right or ſence.</l>
+               <l>Let the foale Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> combe, <hi>Mercuries Meſſenger,</hi>
+               </l>
+               <l>And that ſame doughty Aſſe of <hi>Lambeth Faire.</hi>
+               </l>
+               <l>Goe on in this mad mood like dog bolt curres,</l>
+               <l>Who thinke to over-throw with falſe demurres,</l>
+               <l>The Truthes iuſt cauſe; fling Libels all about,</l>
+               <l>To ſcandall, raile, to vilifie and ſlout</l>
+               <l>Grave reverend Fathers, each good Presbyter.</l>
+               <l>What though Archbiſhop <hi>Laud</hi> is priſoner,</l>
+               <l>Muſt that ſame ſenceles, ſoul mouth'd graceles rogue</l>
+               <l>Deride and ſcoffe, who would, I'm ſure, collogue,</l>
+               <l>Were <hi>Laud</hi> in honours, for to get a place,</l>
+               <l>Of trencher-ſcraper, or groom unto his grace,</l>
+               <l>
+                  <hi>Laud</hi> has offended, and it is my wiſh,</l>
+               <l>That all offenders taſte of <hi>Lauds</hi> owne diſh,</l>
+               <pb n="4" facs="tcp:157061:4"/>
+               <l>But though has done amiſſe, him to defame</l>
+               <l>So impudently ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a filthy ſhame.</l>
+               <l>And to revile him ſo tis much unfit,</l>
+               <l>For ſuch a poetaſten (devils chit)</l>
+               <l>To all theſe rogues aſsociates He ſay thus,</l>
+               <l>They ride the devill, not noble <hi>Pegaſus,</hi>
+               </l>
+               <l>And wiſh them whipt and ſtript, till their ſtrong lines</l>
+               <l>Make them all halters for their doughty rimes.</l>
+               <l>Honour gives life to learning, and the Arts,</l>
+               <l>Honour makes man innobled in all parts.</l>
+               <l>Honour excites to vertue every one,</l>
+               <l>Honour perſwades to get perfection.</l>
+               <l>The ſouldiers fights for honour, makes the ground</l>
+               <l>His faſtned pillow, and his bed of Down,</l>
+               <l>VVill boldly ſtand gainſt death; look as grim</l>
+               <l>As <hi>Mars</hi> himſelf, over a river ſwim.</l>
+               <l>Outface a Canons wide-hell-thundring mouth</l>
+               <l>Out-dare, out-ſtare all objects nor ſo ruth.</l>
+               <l>All this and more for honour he'l paſte by,</l>
+               <l>For honour fight to live, for honour dye.</l>
+               <l>A willing prentiſe, be it nere ſo baſe,</l>
+               <l>VVill undergo all work, bear all diſgrace,</l>
+               <l>Run, flie, and trot, endure any thing,</l>
+               <l>In hope of honour, which Liberty may bring.</l>
+               <l>And ſhall not we honour that precious Iem,</l>
+               <l>Learning which bears from all the Diadem;</l>
+               <l>VVhich makes a man in ſpight of ſpight full death,</l>
+               <l>Live ſtill renownd, immortall after breath,</l>
+               <l>By whoſe fair help all dark obſcurities</l>
+               <l>Are tane away from ſacred my ſteries.</l>
+               <l>Scripture aright expounded, and whereby</l>
+               <l>The good profeſſion ſacred Theology</l>
+               <pb n="5" facs="tcp:157061:4"/>
+               <l>Is ſtill more graduated, for unleſse</l>
+               <l>Learning be got, all's but emptineſse.</l>
+               <l>And certes then ſith Learnings ſo profound,</l>
+               <l>So deare, ſo ſweet, there muſt be fewel found</l>
+               <l>For to maintain it, or twill ſvffocate</l>
+               <l>Eſtate and honour, tis the needfull bait</l>
+               <l>That makes ingenuous wits with courage climbe</l>
+               <l>Up Learnings ſteepy mountain ſo ſublime.</l>
+               <l>A ſhame it is in any Chriſtian ſtate</l>
+               <l>To ſee a learned Clergy paupertate;</l>
+               <l>To ſee thoſe Academyes, whoſe renowne</l>
+               <l>So long have floriſhed to tumble downe.</l>
+               <l>But Heaven be gracious to that gracious Court</l>
+               <l>Aſsembled in thy name, be thou a fort</l>
+               <l>And a defence to them. Let them go on</l>
+               <l>For Church and Kingdomes reformation.</l>
+               <l>Reform abuſes, beat down ſlanderers,</l>
+               <l>Unto the truth that are ſuch batterers.</l>
+               <l>And then, ſo long as we have any breath,</l>
+               <l>VVele praiſe thy name, and ſeale it with our death.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
